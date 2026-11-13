@@ -50,7 +50,8 @@ Every app here installs with `everyapp install` and its GitHub URL. [Install an 
 
 ### From the community
 
-Other people built these. We don't audit them, and installing an app runs its code in your Cloudflare account, so read an app's repository before you install it.
+> [!WARNING]
+> We haven't reviewed or tested these apps yet, and we plan to add a way to verify them soon. Installing an app runs its code in your Cloudflare account, so read its repository before you install it.
 
 | App | What it does | You'll need |
 | --- | --- | --- |
@@ -118,8 +119,6 @@ Then open a pull request that adds one row to the end of the table under [From t
 - **What it does** is one plain sentence about what the app does, not how good it is. "Tracks invoices and reminds clients who are late."
 - **You'll need** is what someone has to bring: API keys, accounts, hardware. Write "Nothing" if the app opens with nothing set.
 - One app per pull request, titled `Add <App name>`.
-
-We'll try the install on a Gateway of our own, then merge it.
 
 Or hand it to your agent:
 
