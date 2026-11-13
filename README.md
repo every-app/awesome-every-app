@@ -51,7 +51,7 @@ Every app here installs with `everyapp install` and its GitHub URL. [Install an 
 ### From the community
 
 > [!WARNING]
-> We haven't reviewed or tested these apps yet. Installing an app runs its code in your Cloudflare account, so read its repository before you install it.
+> We haven't reviewed or tested these apps. Installing an app runs its code in your Cloudflare account, so read its repository before you install it.
 
 | App | What it does | You'll need |
 | --- | --- | --- |
