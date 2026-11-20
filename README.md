@@ -55,8 +55,7 @@ Every app here installs with `everyapp install` and its GitHub URL. [Install an 
 
 | App | What it does | You'll need |
 | --- | --- | --- |
-
-No apps here yet. [Add the first one.](#share-your-app)
+| [log](https://github.com/matthewdonsemail-lab/log-everyapp) | An inbox of your X, Discord, Slack and Instagram messages, fed by your local log install, with agent tools to read chats and draft replies. | A local log install |
 
 ## Set up a Gateway
 
